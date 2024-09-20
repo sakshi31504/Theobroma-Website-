@@ -1,0 +1,212 @@
+.navBar .left{
+    margin-top: 30px;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    left: 17%;
+    border: 1px solid brown;
+    z-index: 1;
+    background-color: whitesmoke;
+}
+    
+
+
+.navBar .right img{
+    height: 80px;
+    width: 230px;
+    margin-left: 0px;
+    position: fixed;
+    margin-top: 30px;
+    z-index: 1;
+
+}
+.disc h5{
+    color: brown;
+    font-size: 14px;
+    position: fixed;
+    text-align: center;
+    right: 500px;
+    width: 100%;
+}
+
+.navBar .left{
+    width: 83%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+}
+.left a{
+    color: rgb(180, 160, 104);
+}
+.left a:hover{
+    color: rgb(69, 200, 223);
+}
+.left .btn:hover{
+    background-color: rgb(231, 170, 181);
+    
+}
+.left .btn{
+    border: 1px solid brown;
+    border-radius: 20px;
+    background-color: rgb(194, 210, 233);
+}
+
+.cakes .cakeinfo{
+    position: relative;
+    top: 80px;
+    height: 350px;
+    width: 100%;
+    background-color:white;
+}
+
+.cakeinfo .font{
+    font-family: "Nerko One", cursive;
+  font-weight: 30;
+  font-style: normal;
+  font-size: 60px;
+  text-align: center;
+  position: relative;
+  top: 100px;
+  color: rgb(121, 107, 71);
+}
+.cakeinfo h5{
+    position: relative;
+    left: 70px;
+    top: 120px;
+    text-align: center;
+}
+.cakeinfo img{
+    
+    position: relative;
+    left: 10px;
+    height: 150px;
+    width: 150px;
+    top: 80px;
+}
+
+.products{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    top: 150px;
+}
+.products img{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border: 1px solid brown;
+}
+.products img:hover{
+    background-color: aliceblue;
+    transition: 0.5s;
+}
+.products .btn{
+    border: 1px solid burlywood;
+    background-color: pink;
+
+}
+.products .btn:hover{
+    background-color: burlywood;
+    transition: 0.5s;
+    color: brown;
+    position: relative;
+}
+.products h5{
+    font-family: "Macondo", cursive;
+        font-weight: 400;
+        font-style: normal; 
+        color: rgb(77, 54, 7);  
+}
+.colors{
+    height: 250px;
+    width: 100%;
+    background-color: pink;
+    position: relative;
+    top: 100px;
+}
+.colors h1{
+    font-family: "Macondo", cursive;
+        font-weight: 400;
+        font-style: normal; 
+        color: rgb(77, 54, 7);  
+        position: relative;
+        left: 500px;
+}
+.colors .btn{
+    border: 1px solid brown;
+    background-color: skyblue;
+    border-radius: 10px;
+    height: 40px;
+    position: absolute;
+    top: 180px;
+    left: 600px;
+}
+.colors .btn:hover{
+    background-color: khaki;
+}
+
+.footmain{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(170, 216, 216);
+    position: relative;
+    border: 1px solid brown;
+    display: grid;
+}
+.footmain .footlogo img{
+    height: 80px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+    top: 100px;
+}
+.footmain .part2 p{
+    position: relative;
+    left: 250px;
+    top: 10px;
+}
+.footmain .part3 p{
+    position: relative;
+    left:440px;
+    top: -230px;
+}
+.footmain .part4 a{
+    position: relative;
+    left: 620px;
+    top: -430px;
+}
+.footmain .part5 {
+    position: relative;
+    left: 800px;
+    top: -480px;
+}
+.footmain .part5 p{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.footmain .part5 input{
+    background-color: rgb(170, 216, 216);
+}
+.footmain .btn{
+    border: 1px solid brown;
+    background-color: skyblue;
+    border-radius: 10px;
+    height: 40px;
+    position: absolute;
+    top: 320px;
+    margin-right: -100px;
+}
+.footmain .part5 .btn:hover{
+    background-color: khaki;
+}
+
+
+
+
+
+
+
+
